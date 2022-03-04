@@ -1,0 +1,3576 @@
+{
+    "toys": [
+        {
+            "id": 1001,
+            "name": "Crayons",
+            "type": "art",
+            "rarity": "Common"
+        },
+        {
+            "id": 1002,
+            "name": "Color Pencils",
+            "type": "art",
+            "rarity": "Common"
+        },
+        {
+            "id": 1003,
+            "name": "Chalk",
+            "type": "art",
+            "rarity": "Common"
+        },
+        {
+            "id": 1004,
+            "name": "Finger Paint",
+            "type": "art",
+            "rarity": "Common"
+        },
+        {
+            "id": 1005,
+            "name": "Old Fashioned Train Engine",
+            "type": "train",
+            "rarity": "Common"
+        },
+        {
+            "id": 1006,
+            "name": "Old Fashioned Train Cargo",
+            "type": "train",
+            "rarity": "Common"
+        },
+        {
+            "id": 1007,
+            "name": "Old Fashioned Train Passenger Car",
+            "type": "train",
+            "rarity": "Common"
+        },
+        {
+            "id": 1008,
+            "name": "Old Fashioned Train Railroad Tie",
+            "type": "train",
+            "rarity": "Common"
+        },
+        {
+            "id": 1009,
+            "name": "Gamesphere",
+            "type": "console",
+            "rarity": "Common"
+        },
+        {
+            "id": 1010,
+            "name": "PlayTerminus II",
+            "type": "console",
+            "rarity": "Common"
+        },
+        {
+            "id": 1011,
+            "name": "TBox 180",
+            "type": "console",
+            "rarity": "Common"
+        },
+        {
+            "id": 1012,
+            "name": "SagaPluto",
+            "type": "console",
+            "rarity": "Common"
+        },
+        {
+            "id": 1013,
+            "name": "Dart Pistol",
+            "type": "nerf",
+            "rarity": "Common"
+        },
+        {
+            "id": 1014,
+            "name": "Slingshot",
+            "type": "nerf",
+            "rarity": "Common"
+        },
+        {
+            "id": 1015,
+            "name": "Bow & Suction Cup Arrow",
+            "type": "nerf",
+            "rarity": "Common"
+        },
+        {
+            "id": 1016,
+            "name": "Soaker Pistol",
+            "type": "nerf",
+            "rarity": "Common"
+        },
+        {
+            "id": 1017,
+            "name": "Cat Plush",
+            "type": "nerf",
+            "rarity": "Common"
+        },
+        {
+            "id": 1018,
+            "name": "Dog Plush",
+            "type": "plush",
+            "rarity": "Common"
+        },
+        {
+            "id": 1019,
+            "name": "Bunny Plush",
+            "type": "plush",
+            "rarity": "Common"
+        },
+        {
+            "id": 1020,
+            "name": "Unicorn Plush",
+            "type": "plush",
+            "rarity": "Common"
+        },
+        {
+            "id": 1021,
+            "name": "Spiralblades Warrior",
+            "type": "blades",
+            "rarity": "Common"
+        },
+        {
+            "id": 1022,
+            "name": "Spiralblades Mage",
+            "type": "blades",
+            "rarity": "Common"
+        },
+        {
+            "id": 1023,
+            "name": "Spiralblades Hunter",
+            "type": "blades",
+            "rarity": "Common"
+        },
+        {
+            "id": 1024,
+            "name": "Spiralblades Trickster",
+            "type": "blades",
+            "rarity": "Common"
+        },
+        {
+            "id": 1025,
+            "name": "Mahogamighties: Lumber Card Pack",
+            "type": "tcg",
+            "rarity": "Common"
+        },
+        {
+            "id": 1026,
+            "name": "Mahogamighties: Axe Cutter Card Pack",
+            "type": "tcg",
+            "rarity": "Common"
+        },
+        {
+            "id": 1027,
+            "name": "Mahogamighties: Builder's Salvation Card Pack",
+            "type": "tcg",
+            "rarity": "Common"
+        },
+        {
+            "id": 1088,
+            "name": "Mahogamighties: Long Living Card Pack",
+            "type": "tcg",
+            "rarity": "Common"
+        },
+        {
+            "id": 1028,
+            "name": "Bouncy Blue Ball",
+            "type": "ball",
+            "rarity": "Common"
+        },
+        {
+            "id": 1029,
+            "name": "Bouncy Green Ball",
+            "type": "ball",
+            "rarity": "Common"
+        },
+        {
+            "id": 1030,
+            "name": "Bouncy Red Ball",
+            "type": "ball",
+            "rarity": "Common"
+        },
+        {
+            "id": 1031,
+            "name": "Bouncy Purple Ball",
+            "type": "ball",
+            "rarity": "Common"
+        },
+        {
+            "id": 1032,
+            "name": "Blonde Cutie Doll",
+            "type": "doll",
+            "rarity": "Common"
+        },
+        {
+            "id": 1033,
+            "name": "Red Head Cutie Doll",
+            "type": "doll",
+            "rarity": "Common"
+        },
+        {
+            "id": 1034,
+            "name": "Ginger Cutie Doll",
+            "type": "doll",
+            "rarity": "Common"
+        },
+        {
+            "id": 1035,
+            "name": "Brown Hair Cutie Doll",
+            "type": "doll",
+            "rarity": "Common"
+        },
+        {
+            "id": 1036,
+            "name": "Underwear",
+            "type": "clothing",
+            "rarity": "Common"
+        },
+        {
+            "id": 1037,
+            "name": "Socks",
+            "type": "clothing",
+            "rarity": "Common"
+        },
+        {
+            "id": 1038,
+            "name": "Jeans",
+            "type": "clothing",
+            "rarity": "Common"
+        },
+        {
+            "id": 1039,
+            "name": "Brat Shirt",
+            "type": "clothing",
+            "rarity": "Common"
+        },
+        {
+            "id": 1040,
+            "name": "Rubber Band Tiger",
+            "type": "bands",
+            "rarity": "Common"
+        },
+        {
+            "id": 1041,
+            "name": "Rubber Band Elephant",
+            "type": "bands",
+            "rarity": "Common"
+        },
+        {
+            "id": 1042,
+            "name": "Rubber Band Giraffe",
+            "type": "bands",
+            "rarity": "Common"
+        },
+        {
+            "id": 1043,
+            "name": "Rubber Band Zebra",
+            "type": "bands",
+            "rarity": "Common"
+        },
+        {
+            "id": 1044,
+            "name": "Waving Cat Robot",
+            "type": "robot",
+            "rarity": "Common"
+        },
+        {
+            "id": 1045,
+            "name": "Waving Dog Robot",
+            "type": "robot",
+            "rarity": "Common"
+        },
+        {
+            "id": 1046,
+            "name": "Waving Squirrel Robot",
+            "type": "robot",
+            "rarity": "Common"
+        },
+        {
+            "id": 1047,
+            "name": "Waving Rabbit Robot",
+            "type": "robot",
+            "rarity": "Common"
+        },
+        {
+            "id": 1048,
+            "name": "Mighty Man Alex",
+            "type": "figure",
+            "rarity": "Common"
+        },
+        {
+            "id": 1049,
+            "name": "Mighty Man Ace",
+            "type": "figure",
+            "rarity": "Common"
+        },
+        {
+            "id": 1050,
+            "name": "Mighty Man Xander",
+            "type": "figure",
+            "rarity": "Common"
+        },
+        {
+            "id": 1051,
+            "name": "Mighty Man Titus",
+            "type": "figure",
+            "rarity": "Common"
+        },
+        {
+            "id": 1052,
+            "name": "Foam Sword",
+            "type": "weapon",
+            "rarity": "Common"
+        },
+        {
+            "id": 1053,
+            "name": "Foam Shield",
+            "type": "weapon",
+            "rarity": "Common"
+        },
+        {
+            "id": 1054,
+            "name": "Foam Axe",
+            "type": "weapon",
+            "rarity": "Common"
+        },
+        {
+            "id": 1055,
+            "name": "Foam Mace",
+            "type": "weapon",
+            "rarity": "Common"
+        },
+        {
+            "id": 1056,
+            "name": "Reflection Dice Set",
+            "type": "dice",
+            "rarity": "Common"
+        },
+        {
+            "id": 1057,
+            "name": "Plastic Dice Set",
+            "type": "dice",
+            "rarity": "Common"
+        },
+        {
+            "id": 1058,
+            "name": "Golden Coated Dice Set",
+            "type": "dice",
+            "rarity": "Common"
+        },
+        {
+            "id": 1059,
+            "name": "Shiny Dice Set",
+            "type": "dice",
+            "rarity": "Common"
+        },
+        {
+            "id": 1060,
+            "name": "R/C Car",
+            "type": "rc",
+            "rarity": "Common"
+        },
+        {
+            "id": 1061,
+            "name": "R/C Truck",
+            "type": "rc",
+            "rarity": "Common"
+        },
+        {
+            "id": 1062,
+            "name": "R/C Boat",
+            "type": "rc",
+            "rarity": "Common"
+        },
+        {
+            "id": 1063,
+            "name": "R/C Van",
+            "type": "rc",
+            "rarity": "Common"
+        },
+        {
+            "id": 1064,
+            "name": "Bionicle Insect Man",
+            "type": "Bionicle",
+            "rarity": "Common"
+        },
+        {
+            "id": 1065,
+            "name": "Bionicle Robot Man",
+            "type": "Bionicle",
+            "rarity": "Common"
+        },
+        {
+            "id": 1066,
+            "name": "Bionicle Macho Man",
+            "type": "Bionicle",
+            "rarity": "Common"
+        },
+        {
+            "id": 1067,
+            "name": "Bionicle Warrior Man",
+            "type": "Bionicle",
+            "rarity": "Common"
+        },
+        {
+            "id": 1068,
+            "name": "Mini Soldier Nutcracker",
+            "type": "nut",
+            "rarity": "Common"
+        },
+        {
+            "id": 1069,
+            "name": "Mini King Nutcracker",
+            "type": "nut",
+            "rarity": "Common"
+        },
+        {
+            "id": 1070,
+            "name": "Mini Queen Nutcracker",
+            "type": "nut",
+            "rarity": "Common"
+        },
+        {
+            "id": 1071,
+            "name": "Mini Drummer Nutcracker",
+            "type": "nut",
+            "rarity": "Common"
+        },
+        {
+            "id": 1072,
+            "name": "New York Snow Globe",
+            "type": "globe",
+            "rarity": "Common"
+        },
+        {
+            "id": 1073,
+            "name": "Chicago Snow Globe",
+            "type": "globe",
+            "rarity": "Common"
+        },
+        {
+            "id": 1074,
+            "name": "Las Vegas Snow Globe",
+            "type": "globe",
+            "rarity": "Common"
+        },
+        {
+            "id": 1075,
+            "name": "Texas Snow Globe",
+            "type": "globe",
+            "rarity": "Common"
+        },
+        {
+            "id": 1076,
+            "name": "Jawbreaker",
+            "type": "candy",
+            "rarity": "Common"
+        },
+        {
+            "id": 1077,
+            "name": "Swirl Sucker",
+            "type": "candy",
+            "rarity": "Common"
+        },
+        {
+            "id": 1078,
+            "name": "Chewy Gum Drops",
+            "type": "candy",
+            "rarity": "Common"
+        },
+        {
+            "id": 1079,
+            "name": "Caramel Candy Corn",
+            "type": "candy",
+            "rarity": "Common"
+        },
+        {
+            "id": 1080,
+            "name": "Peppermint Candy Canes",
+            "type": "cane",
+            "rarity": "Common"
+        },
+        {
+            "id": 1081,
+            "name": "Cherry Candy Canes",
+            "type": "cane",
+            "rarity": "Common"
+        },
+        {
+            "id": 1082,
+            "name": "Watermelon Candy Canes",
+            "type": "cane",
+            "rarity": "Common"
+        },
+        {
+            "id": 1083,
+            "name": "Blueberry Candy Canes",
+            "type": "cane",
+            "rarity": "Common"
+        },
+        {
+            "id": 1084,
+            "name": "Easy Bake Oven",
+            "type": "kitchen",
+            "rarity": "Common"
+        },
+        {
+            "id": 1085,
+            "name": "Low Watt Microwave",
+            "type": "kitchen",
+            "rarity": "Common"
+        },
+        {
+            "id": 1086,
+            "name": "Simple Man's Toaster",
+            "type": "kitchen",
+            "rarity": "Common"
+        },
+        {
+            "id": 1087,
+            "name": "Wooden Butter Knives",
+            "type": "kitchen",
+            "rarity": "Common"
+        },
+        {
+            "id": 1089,
+            "name": "Box",
+            "type": "box",
+            "rarity": "Common"
+        },
+        {
+            "id": 1090,
+            "name": "Glitter",
+            "type": "glitter",
+            "rarity": "Common"
+        },
+        {
+            "id": 1091,
+            "name": "uPhone Cut",
+            "type": "phone",
+            "rarity": "Common"
+        },
+        {
+            "id": 1092,
+            "name": "KyleKite Starship",
+            "type": "phone",
+            "rarity": "Common"
+        },
+        {
+            "id": 1093,
+            "name": "Strawberry Seedling",
+            "type": "phone",
+            "rarity": "Common"
+        },
+        {
+            "id": 1094,
+            "name": "Enginoor Shvr",
+            "type": "phone",
+            "rarity": "Common"
+        },
+        {
+            "id": 1095,
+            "name": "PokaPolar",
+            "type": "soda",
+            "rarity": "Common"
+        },
+        {
+            "id": 1096,
+            "name": "Stripe",
+            "type": "soda",
+            "rarity": "Common"
+        },
+        {
+            "id": 1097,
+            "name": "Dr Zap",
+            "type": "soda",
+            "rarity": "Common"
+        },
+        {
+            "id": 1098,
+            "name": "Beast",
+            "type": "soda",
+            "rarity": "Common"
+        },
+        {
+            "id": 1099,
+            "name": "Monkey Puzzle",
+            "type": "wood",
+            "rarity": "Common"
+        },
+        {
+            "id": 1100,
+            "name": "Paulownia",
+            "type": "wood",
+            "rarity": "Common"
+        },
+        {
+            "id": 1101,
+            "name": "European Silver Fir",
+            "type": "wood",
+            "rarity": "Common"
+        },
+        {
+            "id": 1102,
+            "name": "Atlantic White Cedar",
+            "type": "wood",
+            "rarity": "Common"
+        },
+        {
+            "id": 1103,
+            "name": "Fidget Cube",
+            "type": "fidget",
+            "rarity": "Common"
+        },
+        {
+            "id": 1104,
+            "name": "Fidget Spinner",
+            "type": "fidget",
+            "rarity": "Common"
+        },
+        {
+            "id": 1105,
+            "name": "Reuseable Bubble Wrap",
+            "type": "fidget",
+            "rarity": "Common"
+        },
+        {
+            "id": 1106,
+            "name": "Fidget Speed Ball",
+            "type": "fidget",
+            "rarity": "Common"
+        },
+        {
+            "id": 1106,
+            "name": "Talc",
+            "type": "gem",
+            "rarity": "Common"
+        },
+        {
+            "id": 1107,
+            "name": "Calcite",
+            "type": "gem",
+            "rarity": "Common"
+        },
+        {
+            "id": 1108,
+            "name": "Gypsyu",
+            "type": "gem",
+            "rarity": "Common"
+        },
+        {
+            "id": 1109,
+            "name": "Copper",
+            "type": "gem",
+            "rarity": "Common"
+        },
+        {
+            "id": 1110,
+            "name": "Pirate Sea Skullz",
+            "type": "skullz",
+            "rarity": "Common"
+        },
+        {
+            "id": 1111,
+            "name": "Captain Sea Skullz",
+            "type": "skullz",
+            "rarity": "Common"
+        },
+        {
+            "id": 1112,
+            "name": "Chill Terra Skullz",
+            "type": "skullz",
+            "rarity": "Common"
+        },
+        {
+            "id": 1113,
+            "name": "Vibing Terra Skullz",
+            "type": "skullz",
+            "rarity": "Common"
+        },
+        {
+            "id": 1114,
+            "name": "A Ham Sandwich without Cheese",
+            "type": "sandwich",
+            "rarity": "Common"
+        },
+		{
+            "id": 1115,
+            "name": "Plain Chicken",
+            "type": "chicken",
+            "rarity": "Common"
+        },
+        {
+            "id": 1116,
+            "name": "Red Chicken",
+            "type": "chicken",
+            "rarity": "Common"
+        },
+        {
+            "id": 1117,
+            "name": "Blue Chicken",
+            "type": "chicken",
+            "rarity": "Common"
+        },
+        {
+            "id": 1118,
+            "name": "Green Chicken",
+            "type": "chicken",
+            "rarity": "Common"
+        },
+        {
+            "id": 2001,
+            "name": "Scented Markers",
+            "type": "art",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2002,
+            "name": "Stencil Pencils",
+            "type": "art",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2003,
+            "name": "Watercolor Paint",
+            "type": "art",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2004,
+            "name": "Scented Chalk",
+            "type": "art",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2005,
+            "name": "Jumbo Colored Train Engine",
+            "type": "train",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2006,
+            "name": "Jumbo Colored Train Cargo",
+            "type": "train",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2007,
+            "name": "Jumbo Colored Train Passenger Car",
+            "type": "train",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2008,
+            "name": "Jumbo Color Train Railroad Tie",
+            "type": "train",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2009,
+            "name": "Serious TBox",
+            "type": "console",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2010,
+            "name": "PlayTerminus III Pro",
+            "type": "console",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2011,
+            "name": "Gamepentagon",
+            "type": "console",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2012,
+            "name": "SagaSun",
+            "type": "console",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2013,
+            "name": "Dart Revolver",
+            "type": "nerf",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2014,
+            "name": "Mega Slingshot",
+            "type": "nerf",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2015,
+            "name": "Suction Cup Crossbow",
+            "type": "nerf",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2016,
+            "name": "Super Soaker",
+            "type": "nerf",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2017,
+            "name": "Big Fluffers The Cat Plush",
+            "type": "plush",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2018,
+            "name": "Wild Wascal The Dog Plush",
+            "type": "plush",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2019,
+            "name": "Cute Critter Cindy Plush",
+            "type": "plush",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2020,
+            "name": "Handsome Horse Henry Plush",
+            "type": "plush",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2021,
+            "name": "Spiralblades Lion Assembly Kit",
+            "type": "blades",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2022,
+            "name": "Spiralblades Rhino Assembly Kit",
+            "type": "blades",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2023,
+            "name": "Spiralblades Bear Assembly Kit",
+            "type": "blades",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2024,
+            "name": "Spiralblades Gator Assembly Kit",
+            "type": "blades",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2025,
+            "name": "Mahogamighties: Battle For Oakton Card Pack",
+            "type": "tcg",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2026,
+            "name": "Mahogamighties: Sanctuary Of The Spirits Card Pack",
+            "type": "tcg",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2027,
+            "name": "Mahogamighties: Lightning Trait Card Pack",
+            "type": "tcg",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2028,
+            "name": "Mahogamighties: One Hand Clapping Card Pack",
+            "type": "tcg",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2029,
+            "name": "Jumbo Bouncy Blue Ball",
+            "type": "ball",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2030,
+            "name": "Jumbo Bouncy Green Ball",
+            "type": "ball",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2031,
+            "name": "Jumbo Bouncy Red Ball",
+            "type": "ball",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2032,
+            "name": "Jumbo Bouncy Purple Ball",
+            "type": "ball",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2033,
+            "name": "Cheerleader Cutie Doll",
+            "type": "doll",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2034,
+            "name": "Actress Cutie Doll",
+            "type": "doll",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2035,
+            "name": "Travel Cutie Doll",
+            "type": "doll",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2036,
+            "name": "Vacation Cutie Doll",
+            "type": "doll",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2037,
+            "name": "Cutie Croptop",
+            "type": "clothing",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2038,
+            "name": "Gem Jeans",
+            "type": "clothing",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2039,
+            "name": "Cozy Socks",
+            "type": "clothing",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2040,
+            "name": "Muscle Tanktop",
+            "type": "clothing",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2041,
+            "name": "Rainbow Rubber Band Lion",
+            "type": "bands",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2042,
+            "name": "Rainbow Rubber Band Bear",
+            "type": "bands",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2043,
+            "name": "Rainbow Rubber Band Dog",
+            "type": "bands",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2044,
+            "name": "Rainbow Rubber Band Panda",
+            "type": "bands",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2045,
+            "name": "Walking Cat Robot",
+            "type": "robot",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2046,
+            "name": "Walking Dog Robot",
+            "type": "robot",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2047,
+            "name": "Walking Squirrel Robot",
+            "type": "robot",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2048,
+            "name": "Walking Rabbit Robot",
+            "type": "robot",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2049,
+            "name": "Super Saver Byron",
+            "type": "figure",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2050,
+            "name": "Super Saver Duke",
+            "type": "figure",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2051,
+            "name": "Super Saver Edgar",
+            "type": "figure",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2052,
+            "name": "Super Saver Gunnar",
+            "type": "figure",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2053,
+            "name": "Wooden Sword",
+            "type": "weapon",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2054,
+            "name": "Wooden Shield",
+            "type": "weapon",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2055,
+            "name": "Wooden Axe",
+            "type": "weapon",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2056,
+            "name": "Wooden Mace",
+            "type": "weapon",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2057,
+            "name": "Metallic Dice Set",
+            "type": "dice",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2058,
+            "name": "Acrylic Dice Set",
+            "type": "dice",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2059,
+            "name": "Wooden Hand-crafted Dice Set",
+            "type": "dice",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2060,
+            "name": "Jumbo D20",
+            "type": "dice",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2061,
+            "name": "Jumbo R/C Car",
+            "type": "rc",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2062,
+            "name": "Jumbo R/C Truck",
+            "type": "rc",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2063,
+            "name": "Jumbo R/C Boat",
+            "type": "rc",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2064,
+            "name": "Jumbo R/C Van",
+            "type": "rc",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2065,
+            "name": "Bionicle Barbarian",
+            "type": "Bionicle",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2066,
+            "name": "Bionicle Dragon",
+            "type": "Bionicle",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2067,
+            "name": "Bionicle Knight",
+            "type": "Bionicle",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2068,
+            "name": "Bionicle Cyborg",
+            "type": "Bionicle",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2069,
+            "name": "Soldier Nutcracker",
+            "type": "nut",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2070,
+            "name": "King Nutcracker",
+            "type": "nut",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2071,
+            "name": "Queen Nutcracker",
+            "type": "nut",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2072,
+            "name": "Drummer Nutcracker",
+            "type": "nut",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2073,
+            "name": "Canada Snow Globe",
+            "type": "globe",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2074,
+            "name": "Sweden Snow Globe",
+            "type": "globe",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2075,
+            "name": "Paris Snow Globe",
+            "type": "globe",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2076,
+            "name": "UK Snow Globe",
+            "type": "globe",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2077,
+            "name": "Cotton Candy Taffy",
+            "type": "candy",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2078,
+            "name": "Peanut Butter Chocolate Bars",
+            "type": "candy",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2079,
+            "name": "Tropical Lollipop",
+            "type": "candy",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2080,
+            "name": "Rock Candy Bundle",
+            "type": "candy",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2081,
+            "name": "Tropical Candy Canes",
+            "type": "cane",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2082,
+            "name": "Rainbow Candy Canes",
+            "type": "cane",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2083,
+            "name": "Sour Candy Canes",
+            "type": "cane",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2084,
+            "name": "Lemonade Candy Canes",
+            "type": "cane",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2085,
+            "name": "High Watt Microwave",
+            "type": "kitchen",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2086,
+            "name": "Toaster Oven",
+            "type": "kitchen",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2087,
+            "name": "Four Slot Toaster",
+            "type": "kitchen",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2088,
+            "name": "Utensils",
+            "type": "kitchen",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2089,
+            "name": "Box",
+            "type": "box",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2091,
+            "name": "uPhone Slim",
+            "type": "phone",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2092,
+            "name": "KyleKite Starship 2",
+            "type": "phone",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2093,
+            "name": "Strawberry Keyboard",
+            "type": "phone",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2094,
+            "name": "Enginoor Shvr Revamp",
+            "type": "phone",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2095,
+            "name": "PokaPolar Cherry",
+            "type": "soda",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2096,
+            "name": "Stripe Cranberry",
+            "type": "soda",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2097,
+            "name": "Dr Zap Lite",
+            "type": "soda",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2098,
+            "name": "Beast Ultra",
+            "type": "soda",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2099,
+            "name": "Douglas Fir",
+            "type": "wood",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2100,
+            "name": "Lacewood",
+            "type": "wood",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2101,
+            "name": "Box Elder",
+            "type": "wood",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2102,
+            "name": "Sycamore",
+            "type": "wood",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2103,
+            "name": "Fidget D8 Cube",
+            "type": "fidget",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2104,
+            "name": "Fidget LED Spinner",
+            "type": "fidget",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2105,
+            "name": "Fidget Game Pad",
+            "type": "fidget",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2106,
+            "name": "Squeezeable Sports Ball",
+            "type": "fidget",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2107,
+            "name": "Silver",
+            "type": "gem",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2108,
+            "name": "Pearl",
+            "type": "gem",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2109,
+            "name": "Coral",
+            "type": "gem",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2110,
+            "name": "Millerite",
+            "type": "gem",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2111,
+            "name": "Winged Beast Forest Skullz",
+            "type": "skullz",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2112,
+            "name": "Traveling Forest Skullz",
+            "type": "skullz",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2113,
+            "name": "Sinful Spirit Skullz",
+            "type": "skullz",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2114,
+            "name": "Peaceful Spirit Skullz",
+            "type": "skullz",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2115,
+            "name": "A Ham Sandwich WITH Cheese",
+            "type": "sandwich",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2116,
+            "name": "Abnormally Small Chicken",
+            "type": "chicken",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2117,
+            "name": "Abnormally Large Chicken",
+            "type": "chicken",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2118,
+            "name": "Slightly Dumber Chicken",
+            "type": "chicken",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 2119,
+            "name": "Slight Smarter Chicken",
+            "type": "chicken",
+            "rarity": "Uncommon"
+        },
+        {
+            "id": 3001,
+            "name": "Synthetic Charcoal",
+            "type": "art",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3002,
+            "name": "Calligraphy Pens",
+            "type": "art",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3003,
+            "name": "100 Color Finger Paint",
+            "type": "art",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3004,
+            "name": "Metallic Heavy Train Engine",
+            "type": "train",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3005,
+            "name": "Metallic Heavy Train Passenger Car",
+            "type": "train",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3006,
+            "name": "Metallic Heavy Train Cargo",
+            "type": "train",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3007,
+            "name": "Gamehexigon",
+            "type": "console",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3008,
+            "name": "Dive VR System",
+            "type": "console",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3009,
+            "name": "PlayTerminus Ultra",
+            "type": "console",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3010,
+            "name": "Dart Shotgun",
+            "type": "nerf",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3011,
+            "name": "Foam Ball Blaster",
+            "type": "nerf",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3012,
+            "name": "Pump Action Soaker",
+            "type": "nerf",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3013,
+            "name": "Giant Squishy Cat Plush",
+            "type": "plush",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3014,
+            "name": "Giant Squishy Dog Plush",
+            "type": "plush",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3015,
+            "name": "Giant Squishy Bunny Plush",
+            "type": "plush",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3016,
+            "name": "Spiralblades Super Sharpener",
+            "type": "blades",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3017,
+            "name": "Spiralblades Super Puncher",
+            "type": "blades",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3018,
+            "name": "Spiralblades Super Caster",
+            "type": "blades",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3019,
+            "name": "Mahogamighties: War of the Wood Card Pack",
+            "type": "tcg",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3020,
+            "name": "Mahogamighties: The Ancient Cut Card Pack",
+            "type": "tcg",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3021,
+            "name": "Mahogamighties: Saw Dust Season Card Pack",
+            "type": "tcg",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3022,
+            "name": "Jumbo Bouncy Rainbow Ball",
+            "type": "ball",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3023,
+            "name": "Jumbo Bouncy Tropical Bouncy Ball",
+            "type": "ball",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3024,
+            "name": "Jumbo Bouncy Stripped Ball",
+            "type": "ball",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3025,
+            "name": "Tiktok Cutie Doll",
+            "type": "doll",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3026,
+            "name": "Twitch Streamer Cutie Doll",
+            "type": "doll",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3027,
+            "name": "Yacht Cutie Doll",
+            "type": "doll",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3028,
+            "name": "Dual Layer Winter Jacket",
+            "type": "clothing",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3029,
+            "name": "Hobo Jeans",
+            "type": "clothing",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3030,
+            "name": "Snow Shoveling Mittens",
+            "type": "clothing",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3031,
+            "name": "Rubber Band Jungle Set",
+            "type": "bands",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3032,
+            "name": "Rubber Band Swamp Set",
+            "type": "bands",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3033,
+            "name": "Rubber Band City Set",
+            "type": "bands",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3034,
+            "name": "Talking Cat Robot",
+            "type": "robot",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3035,
+            "name": "Talking Dog Robot",
+            "type": "robot",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3036,
+            "name": "Talking Squirrel Robot",
+            "type": "robot",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3037,
+            "name": "Cool Captain Carl",
+            "type": "figure",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3038,
+            "name": "Cool Captain Jack",
+            "type": "figure",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3039,
+            "name": "Cool Captain Luke",
+            "type": "figure",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3040,
+            "name": "Z-Force Sword",
+            "type": "weapon",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3041,
+            "name": "Z-Force Axe",
+            "type": "weapon",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3042,
+            "name": "Z-Force Mace",
+            "type": "weapon",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3043,
+            "name": "Polyhedral Dice Set",
+            "type": "dice",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3044,
+            "name": "Silver Plated Dice Set",
+            "type": "dice",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3045,
+            "name": "Gold Plated Dice Set",
+            "type": "dice",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3046,
+            "name": "Mega R/C Car",
+            "type": "rc",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3047,
+            "name": "Mega R/C Truck",
+            "type": "rc",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3048,
+            "name": "Mega R/C Boat",
+            "type": "rc",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3049,
+            "name": "Bionicle Fighter Set",
+            "type": "Bionicle",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3050,
+            "name": "Bionicle Robot Mania Set",
+            "type": "Bionicle",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3051,
+            "name": "Bionicle Wild Forest Set",
+            "type": "Bionicle",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3052,
+            "name": "White Knight Nutcracker",
+            "type": "nut",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3053,
+            "name": "Lucky Cat Nutcracker",
+            "type": "nut",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3054,
+            "name": "Candy Cane Nutcracker",
+            "type": "nut",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3055,
+            "name": "Vintage Fire Snow Globe",
+            "type": "globe",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3056,
+            "name": "Vintage Lumberjack Snow Globe",
+            "type": "globe",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3057,
+            "name": "Vintage Japan Snow Globe",
+            "type": "globe",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3058,
+            "name": "Box of Taffy",
+            "type": "candy",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3059,
+            "name": "Box of Chocolate",
+            "type": "candy",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3060,
+            "name": "Box of Handcrafted Gum",
+            "type": "candy",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3061,
+            "name": "Mystery Flavor Candy Canes",
+            "type": "cane",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3062,
+            "name": "Mahogany Candy Canes",
+            "type": "cane",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3063,
+            "name": "Sugar Cane Candy Canes",
+            "type": "cane",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3064,
+            "name": "Sharp Knife Set",
+            "type": "kitchen",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3065,
+            "name": "Mahogany Cutting Board",
+            "type": "kitchen",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3066,
+            "name": "Convention Toaster Oven",
+            "type": "kitchen",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3067,
+            "name": "Box",
+            "type": "box",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3068,
+            "name": "uPhone Plus",
+            "type": "phone",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3069,
+            "name": "KyleKite Starship",
+            "type": "phone",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3070,
+            "name": "Enginoor Shvr Shrp",
+            "type": "phone",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3071,
+            "name": "PokaPolar Slush",
+            "type": "soda",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3072,
+            "name": "Stripe Squeeze",
+            "type": "soda",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3073,
+            "name": "Beast Ultra Party",
+            "type": "soda",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3074,
+            "name": "Paper Birch",
+            "type": "wood",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3075,
+            "name": "Teak",
+            "type": "wood",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3076,
+            "name": "Tamo Ash",
+            "type": "wood",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3077,
+            "name": "Stretchy Rope",
+            "type": "fidget",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3078,
+            "name": "Color Puzzle Cube",
+            "type": "fidget",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3079,
+            "name": "Metal Fidget Spinner",
+            "type": "fidget",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3080,
+            "name": "Gold",
+            "type": "gem",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3081,
+            "name": "Fluorite",
+            "type": "gem",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3082,
+            "name": "Apatite",
+            "type": "gem",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3083,
+            "name": "Color Puzzle Cube",
+            "type": "skullz",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3084,
+            "name": "Sentient Mecha Skullz",
+            "type": "skullz",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3085,
+            "name": "Vengeful Mecha Skullz",
+            "type": "skullz",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3086,
+            "name": "Demonic Fire Skullz",
+            "type": "skullz",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3087,
+            "name": "Sinful Fire Skullz",
+            "type": "skullz",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3088,
+            "name": "A Toasted Ham Sandwich",
+            "type": "sandwich",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3089,
+            "name": "Shiny Chicken",
+            "type": "chicken",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3090,
+            "name": "Filthy Chicken",
+            "type": "chicken",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3091,
+            "name": "Questionably Acrobatic Chicken",
+            "type": "chicken",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3092,
+            "name": "Questionably Hungry Chicken",
+            "type": "chicken",
+            "rarity": "Rare"
+        },
+        {
+            "id": 3093,
+            "name": "Delicious Ketchup",
+            "type": "random",
+			"rarity": "Rare"
+        },
+        {
+            "id": 3094,
+            "name": "Delicious Mustard",
+            "type": "random",
+            "rarity": "Rare"
+        },
+        {
+            "id": 4001,
+            "name": "Glossy Ink",
+            "type": "art",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4002,
+            "name": "The College Art Packet",
+            "type": "art",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4003,
+            "name": "Royal Scotsman",
+            "type": "train",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4004,
+            "name": "Golden Eagle Trans",
+            "type": "train",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4005,
+            "name": "Gamehexigon U",
+            "type": "console",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4006,
+            "name": "PlayTerminus IV",
+            "type": "console",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4007,
+            "name": "Automatic Dart Gun",
+            "type": "nerf",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4008,
+            "name": "Automatic Foam Gun",
+            "type": "nerf",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4009,
+            "name": "Fluffers The First Plush",
+            "type": "plush",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4010,
+            "name": "Henry The First Plush",
+            "type": "plush",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4011,
+            "name": "Spiralblades Hero Set",
+            "type": "blades",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4012,
+            "name": "Spiralblades Villian Set",
+            "type": "blades",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4013,
+            "name": "Mahogamighties Calm Storm Card Pack",
+            "type": "tcg",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4014,
+            "name": "Mahogamighties Against All Odds Card Pack",
+            "type": "tcg",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4015,
+            "name": "Rare Blood Bouncy Balls",
+            "type": "ball",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4016,
+            "name": "Rare Ocean Bouncy Balls",
+            "type": "ball",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4017,
+            "name": "Celebrity Cutie Doll Kit",
+            "type": "doll",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4018,
+            "name": "Pet Grooming Cutie Doll Set",
+            "type": "doll",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4019,
+            "name": "Winner Shirt",
+            "type": "clothing",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4020,
+            "name": "Winner Hat",
+            "type": "clothing",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4021,
+            "name": "Rare Rubber Band Fox",
+            "type": "bands",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4022,
+            "name": "Rare Rubber Band Rabbit",
+            "type": "bands",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4023,
+            "name": "Happy Go Lucky Cat Robot",
+            "type": "robot",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4024,
+            "name": "Happy Go Lucky Dog Robot",
+            "type": "robot",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4025,
+            "name": "Deadly Conqueror Odin",
+            "type": "figure",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4026,
+            "name": "Deadly Conquerer Thor",
+            "type": "figure",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4027,
+            "name": "Champion's Blade",
+            "type": "weapon",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4028,
+            "name": "Conqueror's Axe",
+            "type": "weapon",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4029,
+            "name": "Crystal Infused Dice Set",
+            "type": "dice",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4030,
+            "name": "Rare Metals Dice Set",
+            "type": "dice",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4031,
+            "name": "Modular R/C Car",
+            "type": "rc",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4032,
+            "name": "Modular R/C Truck",
+            "type": "rc",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4033,
+            "name": "Bionicle Robot Costume",
+            "type": "Bionicle",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4034,
+            "name": "Bionicle Barbarian Costume",
+            "type": "Bionicle",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4035,
+            "name": "Jumbo Pirate Nutcracker",
+            "type": "nut",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4036,
+            "name": "Jumbo Magician Nutcracker",
+            "type": "nut",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4037,
+            "name": "Exclusive Lighthouse Snow Globe",
+            "type": "globe",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4038,
+            "name": "Exclusive Princess Snow Globe",
+            "type": "globe",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4039,
+            "name": "Family Made Chocolate Bars",
+            "type": "candy",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4040,
+            "name": "Fruity Hard Candy Pack",
+            "type": "candy",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4041,
+            "name": "Wasabi Candy Canes",
+            "type": "cane",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4042,
+            "name": "Bacon Candy Canes",
+            "type": "cane",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4043,
+            "name": "Unnecessarily Expensive Toaster",
+            "type": "kitchen",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4044,
+            "name": "The World's Best Instant Pot",
+            "type": "kitchen",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4045,
+            "name": "Box",
+            "type": "box",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4055,
+            "name": "uPhone Pro",
+            "type": "phone",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4046,
+            "name": "KyleKite Battleship",
+            "type": "phone",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4047,
+            "name": "PokaPolar Unleash",
+            "type": "soda",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4048,
+            "name": "Beast Ultra Unleash",
+            "type": "soda",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4049,
+            "name": "Zebrawood",
+            "type": "wood",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4050,
+            "name": "Jarrah",
+            "type": "wood",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4051,
+            "name": "Metal LED Fidget Spinner",
+            "type": "fidget",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4052,
+            "name": "Fidget D12 Cube",
+            "type": "fidget",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4053,
+            "name": "Quartz",
+            "type": "gem",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4054,
+            "name": "Topaz",
+            "type": "gem",
+            "rarity": "Epic"
+        },
+		{
+            "id": 4055,
+            "name": "Banished Conqueror Skullz",
+            "type": "skullz",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4056,
+            "name": "Drunk on Seeds Chicken",
+            "type": "chicken",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4057,
+            "name": "Snow Chicken",
+            "type": "chicken",
+            "rarity": "Epic"
+        },
+		{
+            "id": 4058,
+            "name": "A Box of Slim Gims",
+            "type": "random",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4059,
+            "name": "Banished Golden Skullz",
+            "type": "skullz",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4060,
+            "name": "Robotic Cyber Skullz",
+            "type": "skullz",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4061,
+            "name": "Alien Cyber Skullz",
+            "type": "skullz",
+            "rarity": "Epic"
+        },
+        {
+            "id": 4062,
+            "name": "A Ham Sandwich with extra Ham",
+            "type": "sandwich",
+            "rarity": "Epic"
+        },
+        {
+            "id": 5001,
+            "name": "Princess Themed Art Supplies",
+            "type": "art",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5002,
+            "name": "Knight Themed Art Supplies",
+            "type": "art",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5003,
+            "name": "1957 Lionel Train Set",
+            "type": "train",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5004,
+            "name": "Golden Eagle Trans",
+            "type": "train",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5005,
+            "name": "Gamepolygon",
+            "type": "console",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5006,
+            "name": "SagaStar",
+            "type": "console",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5007,
+            "name": "Dart Minigun",
+            "type": "nerf",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5008,
+            "name": "Foam Ball Minigun",
+            "type": "nerf",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5009,
+            "name": "Human Sized Bear Plush",
+            "type": "plush",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5010,
+            "name": "Human Sized Cat Plush",
+            "type": "plush",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5011,
+            "name": "Spiralblades The Movie",
+            "type": "blades",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5012,
+            "name": "Spiralblades The Book ",
+            "type": "blades",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5013,
+            "name": "Mahogamighties Golden Card Pack",
+            "type": "tcg",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5014,
+            "name": "Mahogamighties Lofi Songs Card Pack",
+            "type": "tcg",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5015,
+            "name": "Collectible Hand Crafted Bouncy Balls",
+            "type": "ball",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5016,
+            "name": "Extremely Bouncy Bouncy Balls",
+            "type": "ball",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5017,
+            "name": "Mansion Cutie Mega Set",
+            "type": "doll",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5018,
+            "name": "The Great Outdoors Cutie Mega Set",
+            "type": "doll",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5019,
+            "name": "Galaxy Bandana",
+            "type": "clothing",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5020,
+            "name": "Ugly Christmas Sweater",
+            "type": "clothing",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5021,
+            "name": "Shiny Rubber Band Eagle",
+            "type": "bands",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5022,
+            "name": "Shiny Rubber Band Whale",
+            "type": "bands",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5023,
+            "name": "Victory Cat Robot Companion",
+            "type": "robot",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5024,
+            "name": "Victory Dog Robot Companion",
+            "type": "robot",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5025,
+            "name": "Godly Glorifier Samuel",
+            "type": "figure",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5026,
+            "name": "Godly Glorifier Dante",
+            "type": "figure",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5027,
+            "name": "Barbarian Sealed Dual Axes",
+            "type": "weapon",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5028,
+            "name": "The Paladin's Forbidden Claymore",
+            "type": "weapon",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5029,
+            "name": "Diamond Dice Set",
+            "type": "dice",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5030,
+            "name": "50 Pound Bag of Dice",
+            "type": "dice",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5031,
+            "name": "R/C Monster Truck",
+            "type": "rc",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5032,
+            "name": "R/C Yacht",
+            "type": "rc",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5033,
+            "name": "Life Size Bionicle Dragon",
+            "type": "Bionicle",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5034,
+            "name": "Life Size Bionicle Robot",
+            "type": "Bionicle",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5035,
+            "name": "Diamond Encrusted Lion Tamer Nutcracker",
+            "type": "nut",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5036,
+            "name": "Diamond Encrusted Skeleton Nutcracker",
+            "type": "nut",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5037,
+            "name": "Handcrafted North Pole Snow Globe",
+            "type": "globe",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5038,
+            "name": "Handcrafted Santa Snow Globe",
+            "type": "globe",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5039,
+            "name": "Golden Chocolate Bars",
+            "type": "candy",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5040,
+            "name": "Wumpus Candy",
+            "type": "candy",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5041,
+            "name": "Mahogany Candy Canes",
+            "type": "cane",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5042,
+            "name": "Cinnamon Roll Candy Canes",
+            "type": "cane",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5043,
+            "name": "Automatic Grill With Built-In Speakers",
+            "type": "kitchen",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5044,
+            "name": "Smart Fridge",
+            "type": "kitchen",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5045,
+            "name": "Box",
+            "type": "box",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5055,
+            "name": "uPhone Pro Max",
+            "type": "phone",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5046,
+            "name": "KyleKite Planet",
+            "type": "phone",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5047,
+            "name": "PokaPolar Dream",
+            "type": "soda",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5048,
+            "name": "Stripe Ultraberry",
+            "type": "soda",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5049,
+            "name": "Burma Padauk",
+            "type": "wood",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5050,
+            "name": "Cocobolo",
+            "type": "wood",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5051,
+            "name": "Glossy LED Fidget Spinner",
+            "type": "fidget",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5052,
+            "name": "Lava Lamp",
+            "type": "fidget",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5053,
+            "name": "Ruby",
+            "type": "gem",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5054,
+            "name": "Sapphire",
+            "type": "gem",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5055,
+            "name": "Divine Angel Skullz",
+            "type": "skullz",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5056,
+            "name": "Divine Guardian Skullz",
+            "type": "skullz",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5057,
+            "name": "A Glorious Sandwich",
+            "type": "sandwich",
+            "rarity": "Lucky"
+        },
+        {
+            "id": 5058,
+            "name": "Divine Golden Skullz",
+            "type": "skullz",
+            "rarity": "Lucky"
+        },
+		{
+            "id": 5059,
+            "name": "The Golden Chicken of Luxary",
+            "type": "chicken",
+            "rarity": "Lucky"
+        },        
+		{
+            "id": 6001,
+            "name": "The Magic Pencil",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6002,
+            "name": "Mahogany Express",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6003,
+            "name": "Optical Quest",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6004,
+            "name": "The Dart Supreme",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6005,
+            "name": "Pillow Pal",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6006,
+            "name": "Spiralblades The Forbidden Blade Kit",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6007,
+            "name": "Mahogamighties The Will Of the Gods Card Pack",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6008,
+            "name": "The Forbidden Bouncy Ball",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6009,
+            "name": "Beyond Dreams Cutie Mega Set",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6010,
+            "name": "Hand-Knitted Winter Scarf",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6011,
+            "name": "Diamond Encrusted Rubber Band Turtle",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6012,
+            "name": "Life Sized Pet Companion",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6013,
+            "name": "Champion Zerus",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6014,
+            "name": "The Staff of Enlightenment",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6015,
+            "name": "Kraken Dice Set",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6016,
+            "name": "Diamond Encrusted R/C Monster Truck",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6017,
+            "name": "Bionicle Synthwave Cyborg Mega Set",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6018,
+            "name": "Life-Size Soldier Nutcracker",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6019,
+            "name": "Happy Wumpus Snow Globe",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6020,
+            "name": "The Forbidden Treat",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6021,
+            "name": "Snowflake Candy Canes",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6022,
+            "name": "Standing Kitchen Mixer With Legs",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6023,
+            "name": "Box",
+            "type": "box",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6024,
+            "name": "uPhone Pro Max Plus",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6025,
+            "name": "PokePolar Classic",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6026,
+            "name": "Rich Mahogany",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6027,
+            "name": "Fidget Cube Spinner",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6028,
+            "name": "The Trophy Of Winners",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6029,
+            "name": "Chad's Ham Sandwich",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6030,
+            "name": "Diamond",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6031,
+            "name": "Aeon Skullz",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 6032,
+            "name": "Pixel Skullz",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+		{
+            "id": 6033,
+            "name": "The Nether Chicken",
+            "type": "glitch",
+            "rarity": "Glitched"
+        },
+        {
+            "id": 7001,
+            "name": "Regular Coal",
+            "type": "coal",
+            "rarity": "Dull"
+        },
+        {
+            "id": 7002,
+            "name": "Lucky Coal",
+            "type": "coal",
+            "rarity": "Dull"
+        },
+        {
+            "id": 7003,
+            "name": "Glitched Coal",
+            "type": "coal",
+            "rarity": "Dull"
+        }    
+    ],
+    "presents": [
+        {
+            "id": 1101,
+            "name": "Red Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835786868981770/CubeGiftred.png",
+            "gifted": false
+        },
+        {
+            "id": 1102,
+            "name": "Purple Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835798843719700/CubeGiftprple.png",
+            "gifted": false
+        },
+        {
+            "id": 1103,
+            "name": "Pink Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835796839366656/CubeGiftpnk.png",
+            "gifted": false
+        },
+        {
+            "id": 1104,
+            "name": "Orange Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835794020270121/CubeGiftorng.png",
+            "gifted": false
+        },
+        {
+            "name": "Green Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835792241360956/CubeGiftgrn.png",
+            "id": 1105,
+            "gifted": false
+        },
+        {
+            "name": "Blue Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835791084257280/CubeGiftbloo.png",
+            "id": 1106,
+            "gifted": false
+        },
+        {
+            "name": "Yellow Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835789326843914/CubeGiftyllw.png",
+            "id": 1107,
+            "gifted": false
+        },
+        {
+            "name": "Red Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835867143634955/Cylinder_giftred.png",
+            "id": 1108,
+            "gifted": false
+        },
+        {
+            "name": "Purple Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835879302660096/Cylinder_giftprpl.png",
+            "id": 1109,
+            "gifted": false
+        },
+        {
+            "name": "Pink Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835878166790225/Cylinder_giftpnk.png",
+            "id": 1110,
+            "gifted": false
+        },
+        {
+            "name": "Orange Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835876920557628/Cylinder_giftorng.png",
+            "id": 1111,
+            "gifted": false
+        },
+        {
+            "name": "Green Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835874970730506/Cylinder_giftgrn.png",
+            "id": 1112,
+            "gifted": false
+        },
+        {
+            "name": "Blue Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835873237958656/Cylinder_giftbloo.png",
+            "id": 1113,
+            "gifted": false
+        },
+        {
+            "name": "Yellow Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835871522750464/Cylinder_giftyllw.png",
+            "id": 1114,
+            "gifted": false
+        },
+        {
+            "name": "Red Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835976949989406/Rectangle_giftred.png",
+            "id": 1115,
+            "gifted": false
+        },
+        {
+            "name": "Purple Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835974539051008/Rectangle_giftprple.png",
+            "id": 1116,
+            "gifted": false
+        },
+        {
+            "name": "Pink Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835972459069460/Rectangle_giftpnk.png",
+            "id": 1117,
+            "gifted": false
+        },
+        {
+            "name": "Orange Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835970688155678/Rectangle_giftorng.png",
+            "id": 1118,
+            "gifted": false
+        },
+        {
+            "name": "Green Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835968033947668/Rectangle_giftgrn.png",
+            "id": 1119,
+            "gifted": false
+        },
+        {
+            "name": "Blue Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835953655480330/Rectangle_giftbloo.png",
+            "id": 1120,
+            "gifted": false
+        },
+        {
+            "name": "Yellow Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835979349655572/Rectangle_giftyllw.png",
+            "id": 1121,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Red Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592991684165632/LuckyCubeRed.png",
+            "id": 1201,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Purple Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592990614224906/LuckyCubePurple.png",
+            "id": 1202,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Pink Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592988470542336/LuckyCubePink.png",
+            "id": 1203,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Orange Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592986117275668/LuckyCubeOrange.png",
+            "id": 1204,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Green Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592984762908702/LuckyCubeGreen.png",
+            "id": 1205,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Blue Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592982980722698/LuckyCubeBlue.png",
+            "id": 1206,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Yellow Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592993382203412/LuckyCubeYellow.png",
+            "id": 1207,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Red Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592913858854932/LuckyCircleRed.png",
+            "id": 1208,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Purple Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592912087810048/LuckyCirclePurple.png",
+            "id": 1209,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Pink Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592909731004426/LuckyCirclePink.png",
+            "id": 1210,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Orange Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592908325781514/LuckyCircleOrange.png",
+            "id": 1211,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Green Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592906116038676/LuckyCircleGreen.png",
+            "id": 1212,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Blue Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592904668610601/LuckyCircleBlue.png",
+            "id": 1213,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Yellow Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592915192512522/LuckyCircleYellow.png",
+            "id": 1214,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Red Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593068217499698/LuckyRectRed.png",
+            "id": 1215,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Purple Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593065788473405/LuckyRectPurplepng.png",
+            "id": 1216,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Pink Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593064035385345/LuckyRectPink.png",
+            "id": 1217,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Orange Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593061858148392/LuckyRectOrange.png",
+            "id": 1218,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Green Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593060138483712/LuckyRectGreen.png",
+            "id": 1219,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Blue Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593058096513024/LuckyRectBlue.png",
+            "id": 1220,
+            "gifted": false
+        },
+        {
+            "name": "Lucky Yellow Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593069714472961/LuckyRectYellow.png",
+            "id": 1221,
+            "gifted": false
+        },
+        {
+            "name": "Glitched Square Present",
+            "type": "Glitched",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783906985149202512/Square_Glitch.png",
+            "id": 1301,
+            "gifted": false
+        },
+        {
+            "name": "Glitched Circle Present",
+            "type": "Glitched",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783906970376601610/Circular_Glitch.png",
+            "id": 1302,
+            "gifted": false
+        },
+        {
+            "name": "Glitched Rectangle Present",
+            "type": "Glitched",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783906980363370517/Rect_Glitch.png",
+            "id": 1303,
+            "gifted": false
+        },
+        {
+            "id": 2101,
+            "name": "Red Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835786868981770/CubeGiftred.png",
+            "gifted": true
+        },
+        {
+            "id": 2102,
+            "name": "Purple Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835798843719700/CubeGiftprple.png",
+            "gifted": true
+        },
+        {
+            "id": 2103,
+            "name": "Pink Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835796839366656/CubeGiftpnk.png",
+            "gifted": true
+        },
+        {
+            "id": 2104,
+            "name": "Orange Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835794020270121/CubeGiftorng.png",
+            "gifted": true
+        },
+        {
+            "name": "Green Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835792241360956/CubeGiftgrn.png",
+            "id": 2105,
+            "gifted": true
+        },
+        {
+            "name": "Blue Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835791084257280/CubeGiftbloo.png",
+            "id": 2106,
+            "gifted": true
+        },
+        {
+            "name": "Yellow Square Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835789326843914/CubeGiftyllw.png",
+            "id": 2107,
+            "gifted": true
+        },
+        {
+            "name": "Red Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835867143634955/Cylinder_giftred.png",
+            "id": 2108,
+            "gifted": true
+        },
+        {
+            "name": "Purple Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835879302660096/Cylinder_giftprpl.png",
+            "id": 2109,
+            "gifted": true
+        },
+        {
+            "name": "Pink Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835878166790225/Cylinder_giftpnk.png",
+            "id": 2110,
+            "gifted": true
+        },
+        {
+            "name": "Orange Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835876920557628/Cylinder_giftorng.png",
+            "id": 2111,
+            "gifted": true
+        },
+        {
+            "name": "Green Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835874970730506/Cylinder_giftgrn.png",
+            "id": 2112,
+            "gifted": true
+        },
+        {
+            "name": "Blue Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835873237958656/Cylinder_giftbloo.png",
+            "id": 2113,
+            "gifted": true
+        },
+        {
+            "name": "Yellow Circle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835871522750464/Cylinder_giftyllw.png",
+            "id": 2114,
+            "gifted": true
+        },
+        {
+            "name": "Red Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835976949989406/Rectangle_giftred.png",
+            "id": 2115,
+            "gifted": true
+        },
+        {
+            "name": "Purple Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835974539051008/Rectangle_giftprple.png",
+            "id": 2116,
+            "gifted": true
+        },
+        {
+            "name": "Pink Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835972459069460/Rectangle_giftpnk.png",
+            "id": 2117,
+            "gifted": true
+        },
+        {
+            "name": "Orange Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835970688155678/Rectangle_giftorng.png",
+            "id": 2118,
+            "gifted": true
+        },
+        {
+            "name": "Green Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835968033947668/Rectangle_giftgrn.png",
+            "id": 2119,
+            "gifted": true
+        },
+        {
+            "name": "Blue Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835953655480330/Rectangle_giftbloo.png",
+            "id": 2120,
+            "gifted": true
+        },
+        {
+            "name": "Yellow Rectangle Present",
+            "type": "Regular",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/782835979349655572/Rectangle_giftyllw.png",
+            "id": 2121,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Red Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592991684165632/LuckyCubeRed.png",
+            "id": 2201,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Purple Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592990614224906/LuckyCubePurple.png",
+            "id": 2202,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Pink Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592988470542336/LuckyCubePink.png",
+            "id": 2203,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Orange Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592986117275668/LuckyCubeOrange.png",
+            "id": 2204,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Green Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592984762908702/LuckyCubeGreen.png",
+            "id": 2205,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Blue Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592982980722698/LuckyCubeBlue.png",
+            "id": 2206,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Yellow Square Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592993382203412/LuckyCubeYellow.png",
+            "id": 2207,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Red Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592913858854932/LuckyCircleRed.png",
+            "id": 2208,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Purple Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592912087810048/LuckyCirclePurple.png",
+            "id": 2209,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Pink Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592909731004426/LuckyCirclePink.png",
+            "id": 2210,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Orange Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592908325781514/LuckyCircleOrange.png",
+            "id": 2211,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Green Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592906116038676/LuckyCircleGreen.png",
+            "id": 2212,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Blue Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592904668610601/LuckyCircleBlue.png",
+            "id": 2213,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Yellow Circle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783592915192512522/LuckyCircleYellow.png",
+            "id": 2214,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Red Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593068217499698/LuckyRectRed.png",
+            "id": 2215,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Purple Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593065788473405/LuckyRectPurplepng.png",
+            "id": 2216,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Pink Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593064035385345/LuckyRectPink.png",
+            "id": 2217,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Orange Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593061858148392/LuckyRectOrange.png",
+            "id": 2218,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Green Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593060138483712/LuckyRectGreen.png",
+            "id": 2219,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Blue Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593058096513024/LuckyRectBlue.png",
+            "id": 2220,
+            "gifted": true
+        },
+        {
+            "name": "Lucky Yellow Rectangle Present",
+            "type": "Lucky",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783593069714472961/LuckyRectYellow.png",
+            "id": 2221,
+            "gifted": true
+        },
+        {
+            "name": "Glitched Square Present",
+            "type": "Glitched",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783906985149202512/Square_Glitch.png",
+            "id": 2301,
+            "gifted": true
+        },
+        {
+            "name": "Glitched Circle Present",
+            "type": "Glitched",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783906970376601610/Circular_Glitch.png",
+            "id": 2302,
+            "gifted": true
+        },
+        {
+            "name": "Glitched Rectangle Present",
+            "type": "Glitched",
+            "url": "https://cdn.discordapp.com/attachments/782835367085998080/783906980363370517/Rect_Glitch.png",
+            "id": 2303,
+            "gifted": true
+        }
+    ]
+}
