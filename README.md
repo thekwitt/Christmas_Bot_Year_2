@@ -1,5 +1,5 @@
 # Winterfest - Discord Christmas Bot 2021
-This Christmas Bot is the 2020 Season Discord Bot release for the Holiday Christmas.
+This Christmas Bot is the 2021 Season Discord Bot release for the Holiday Christmas.
 
 ## Description
 Winterfest is a Christmas Bot dedicated to bringing the fun of opening presents to your devices! You can stay more connected with your community by collecting presents, defeating bosses together to save your server from impending doom, giving all your earnings to your friends, and throwing coal at strangers!
