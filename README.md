@@ -1,4 +1,4 @@
-# Winterfest - Discord Christmas Bot 2020
+# Winterfest - Discord Christmas Bot 2021
 This Christmas Bot is the 2020 Season Discord Bot release for the Holiday Christmas.
 
 ## Description
